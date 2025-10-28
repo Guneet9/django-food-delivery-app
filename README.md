@@ -1,4 +1,4 @@
-# Food Delivery Web App (Lite Version)
+# Food Delivery Web App
 
 A Django-based food delivery application with real-time chat functionality between customers and delivery partners.
 
